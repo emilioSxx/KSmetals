@@ -1,0 +1,105 @@
+body
+{
+color:black;
+background-color: black;
+}
+article 
+{
+    width: 70%;
+    height: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 20px 20px 20px 0px;
+}
+
+footer{
+    width: 70%;
+    height: 75%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 20px 20px 20px 0px;
+    border: solid 10px rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: black;
+}
+
+
+h2
+{
+    color:#0101f5;
+}
+h4 {
+    color:#0101f5;
+}
+section 
+{
+    padding: 10px 10px 10px 10px;
+    margin-top: 20 px;
+    margin-bottom: 20px;
+    margin-right:40px;
+    border: solid 10px rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: black;
+}
+p
+{
+    color:white;
+}
+nav 
+{
+    color: #7396b9;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 2x lightblue;
+}
+
+nav ul 
+{
+    padding: 5px;
+}
+
+li.navigatie 
+{
+    display: inline;
+    margin-right: 10 px;
+    background-color: rgb(238, 238, 241)
+}
+
+nav a 
+{
+    border: solid 2px rgb(67, 7, 187);
+    border-radius: 10px;
+    padding: 10px;
+}
+a{
+    color: #7396b9;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 2x lightblue;
+}  
+
+a:link 
+{
+    color:  #f7f7f7;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+}
+
+a:hover 
+{
+    color: white;
+    background-color: rgb(22, 83, 215);
+    text-decoration: underline;
+    border: solid 2x lightblue;
+    border-radius: 10px;
+}
+
+a:active 
+{
+    color: darkslateblue;
+}
