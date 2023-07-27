@@ -5,7 +5,7 @@ background-color: black;
 }
 article 
 {
-    width: 70%;
+    width: 60%;
     height: 75%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -40,7 +40,7 @@ section
     padding: 10px 10px 10px 10px;
     margin-top: 20 px;
     margin-bottom: 20px;
-    margin-right:40px;
+    margin-right:20px;
     border: solid 10px rgb(0, 0, 0);
     border-radius: 20px;
     background-color: black;
@@ -48,6 +48,9 @@ section
 p
 {
     color:white;
+}
+li {
+    color: white;
 }
 nav 
 {
